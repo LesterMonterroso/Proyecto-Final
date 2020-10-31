@@ -1,0 +1,4 @@
+C:\Users\monte\Desktop\Tareas Decimo Semestre\Desarrollo web\Proyecto Contabilidad\Contaumg\Contaumg\obj\Debug\netcoreapp2.0\Contaumg.csprojAssemblyReference.cache
+C:\Users\monte\Desktop\Tareas Decimo Semestre\Desarrollo web\Proyecto Contabilidad\Contaumg\Contaumg\obj\Debug\netcoreapp2.0\Contaumg.AssemblyInfoInputs.cache
+C:\Users\monte\Desktop\Tareas Decimo Semestre\Desarrollo web\Proyecto Contabilidad\Contaumg\Contaumg\obj\Debug\netcoreapp2.0\Contaumg.AssemblyInfo.cs
+C:\Users\monte\Desktop\Tareas Decimo Semestre\Desarrollo web\Proyecto Contabilidad\Contaumg\Contaumg\obj\Debug\netcoreapp2.0\Contaumg.csproj.CoreCompileInputs.cache
